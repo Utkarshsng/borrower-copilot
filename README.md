@@ -4,7 +4,7 @@
 
 > **Core idea:** don't start with “How much might a lender give me?” Start with “How much can my own cash flow safely carry?” Then compare that boundary with a lender-style capacity, fair pricing and a stress case.
 
-**[Live Demo](https://borrower-copilot-bchm-git-main-utkarshsngs-projects.vercel.app)** ·
+**[Live Demo](https://borrower-copilot-bchm-git-main-utkarshsngs-projects.vercel.app)** · **readme update**
  **[GitHub](https://github.com/Utkarshsng/borrower-copilot)** · **[Rules](RULES.md)** · 
  **[Run-throughs](THREE_RUNTHROUGHS.md)** ·
   **[5-Min Walkthrough](WALKTHROUGH.md)**
