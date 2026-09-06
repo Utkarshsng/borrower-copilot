@@ -11,7 +11,11 @@ function isQuestionComplete(question, answers) {
   );
   const section = answers[question.id] || {};
 
-  return fields.every((field) => section[field.key] !== "" && section[field.key] != null);
+  return fields.every(
+    (field) =>
+      field.required === false ||
+      (section[field.key] !== "" && section[field.key] != null)
+  );
 }
 
 export default function App() {

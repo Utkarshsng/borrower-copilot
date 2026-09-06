@@ -222,6 +222,7 @@ export const QUESTIONS = [
       {
         key: "creditScore",
         label: "Credit score, if known",
+        required: false,
         type: "number",
         min: 300,
         max: 900,
