@@ -1,5 +1,9 @@
 # Borrower Copilot
 
+**[Live Demo →](https://borrower-copllot-bchm.vercel.app/)**
+
+A working Vercel deployment is provided above for review. The source repo contains the full assessment deliverables.
+
 A browser-only self-assessment that helps an Indian borrower answer four questions before meeting a lender:
 
 1. Should I borrow at all?
@@ -28,6 +32,13 @@ Every question must change/refine at least one of:
 **If a question does not change an output, we don't ask it.**
 
 > Fewer questions, not fewer inputs. More relevant questions, not more questions.
+
+## Submission links
+
+- **Live app:** https://borrower-copllot-bchm.vercel.app/
+- **Repository:** https://github.com/Utkarshsng/borrower-copilot
+
+The four assessment deliverables are kept at the repository root: `README.md`, `RULES.md`, `THREE_RUNTHROUGHS.md`, and `WALKTHROUGH.md`.
 
 ## Architecture
 
