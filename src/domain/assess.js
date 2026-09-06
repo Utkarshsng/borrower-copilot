@@ -42,8 +42,8 @@ function calculateApr(principal, annualRate, months, upfrontFee) {
 
   for (let i = 0; i < 80; i += 1) {
     const mid = (low + high) / 2;
-    if (npv(mid) > 0) low = mid;
-    else high = mid;
+    if (npv(mid) > 0) high = mid;
+    else low = mid;
   }
 
   const monthlyIr = (low + high) / 2;
